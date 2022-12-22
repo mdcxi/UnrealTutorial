@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"/Users/alex/Documents/Unreal Tutorial/Tutorial/Source/Tutorial/Tutorial.Build.cs",
+		"/Users/alex/Documents/Unreal Tutorial/Tutorial/Source/Tutorial.Target.cs",
+		"/Users/alex/Documents/Unreal Tutorial/Tutorial/Source/TutorialEditor.Target.cs"
+	],
+	"EngineVersion": "5.0.3"
+}

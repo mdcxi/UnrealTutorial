@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Tutorial",
+			"Path": "/Users/alex/Documents/Unreal Tutorial/Tutorial/Source/Tutorial.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "TutorialEditor",
+			"Path": "/Users/alex/Documents/Unreal Tutorial/Tutorial/Source/TutorialEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
